@@ -2,4 +2,4 @@
 
 Test repository Git per Coursera
 
-It's a markdown file in this repository
+Si tratta di un file Markdown in questo repository
